@@ -1,0 +1,119 @@
+* {
+  font-family: 'Muli', sans-serif;
+}
+.clearfix:after {*/
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+ul {
+  list-style-type: none;
+  padding:0;
+  float:right;
+}
+li {
+  display:inline-block;;
+  margin-left:15px;
+}
+a {
+  text-decoration: none;
+  color:inherit;
+}
+
+h4 {
+float:left;
+}
+
+.section1 {
+  text-align: center;
+  padding: 100px;
+  background-color: whitesmoke;
+  height:150px;
+  margin: 5%;
+}
+
+#gobutton {
+  display:inline-block;
+  border: 2px solid black;
+  height: 20px;
+  width: 55px;
+  padding: 0px 0px 40px 25px;
+}
+
+.cake {
+  float:left;
+  height: 200px;
+  width:40%;
+  margin-right:25px;
+  margin-left:5%;
+}
+
+.section2 {
+  /*text-align: center;*/
+  margin:5%;
+}
+
+section {
+  background-color: whitesmoke;
+
+
+}
+.3_unit {
+  width:25%;
+  height:250px;
+  float:left;
+
+}
+
+h3 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.littleguy {
+  width:125px;
+  height:125px;;
+  padding-left:20%;
+  padding-top: 30px;
+
+}
+.cactus {
+  margin-left
+}
+
+.section4 {
+  width:40%;
+  height:400px;
+  float:left;
+  margin:5%;
+}
+.halvsies {
+  width:200px;
+  height:250px;
+  padding-left:50px;
+}
+h5{
+  float:right;
+}
+.section5 {
+  clear:both;
+  padding:20px 10px;
+  margin:5%;
+  text-align:center;
+  background-color:whitesmoke;
+  height:
+}
+
+.bigbutton {
+  border: solid 2px black;
+  width:100px;
+  display:inline-block;
+
+}
